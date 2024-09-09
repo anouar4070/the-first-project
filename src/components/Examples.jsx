@@ -31,7 +31,7 @@ export default function Examples(){
     <Section title="Examples" id="examples">
    <Tabs 
   //  buttonsContainer={Section}  -use your component function when using custom component like Section-
-   ButtonsContainer="menu"  // use string names for built-in element like div, menu..
+  //  ButtonsContainer="menu"  // use string names for built-in element like div, menu..
    buttons={
     <>
  <TabButton
